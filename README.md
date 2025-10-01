@@ -1,4 +1,4 @@
-# SHS-100K-2025
+# SHS-100K-official-2025
 SecondHandSongs 100K data set, 2025 version
 # Overview
 This repository is a follow-up of the external SHS100K dataset first published in 2017. Given its intensive use in song recognition research, a new dataset was needed. However, in contrast to the first repository, this one is published by the SecondHandSongs organization itself. 
